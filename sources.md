@@ -1,12 +1,12 @@
 <html>
-	<head>
+	<!--<head>
 		<style>
 			p {
 			  padding-left: 25px ;
 			  text-indent: -25px ;
 			}
 		</style>
-	</head>
+	</head>-->
 
 # References
 
